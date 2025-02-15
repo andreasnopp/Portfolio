@@ -779,3 +779,11 @@ footer {
 .social-links p {
 	font-size: 12px;
 }
+
+.image-container {
+    display: flex;
+    justify-content: center;  /* Horizontal zentrieren */
+        /* Optional: vertikal zentrieren, falls nötig */
+    width: 100%;              /* Um sicherzustellen, dass der Container die volle Breite nutzt */
+    margin: 0 auto;           /* Optional: Automatisches Margin für Zentrierung auf größerem Bildschirm */
+}
