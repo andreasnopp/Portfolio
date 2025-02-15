@@ -330,7 +330,7 @@ nav a:hover {
 
 @media (max-width: 768px) {
     nav a {
-        font-size: 1rem; /* Noch kleinere Schrift für Handys */
+        font-size: 1.2rem; /* Noch kleinere Schrift für Handys */
     }
 }
 
